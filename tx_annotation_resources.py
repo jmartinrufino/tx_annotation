@@ -1,5 +1,5 @@
 from gnomad.utils.vep import *
-import gnomad.resources.grch37.gnomad as gnomad
+import gnomad.resources.grch38.gnomad as gnomad
 
 
 # MTs/HTs of interest
