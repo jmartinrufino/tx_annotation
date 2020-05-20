@@ -38,7 +38,7 @@ v7_tissues_to_drop = ["Bladder", "Brain_Spinalcord_cervicalc_1_", "Brain_Substan
 
 phylocsf_file_path = "gs://gnomad-public/papers/2019-tx-annotation/data/other_data/phylocsf_data.tsv.bgz"
 
-vep_config = vep_config_path("GRCh37")
+vep_config = vep_config_path("GRCh38")
 
 # Fetal RNA-seq
 hbdr_fetal_tissue_summary_ht_path = "gs://gnomad-public/papers/2019-tx-annotation/data/HBDR_fetal_RNAseq/HBDR.tissue_names.medians.021520.mt"
